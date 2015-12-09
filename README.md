@@ -1,5 +1,7 @@
 # Notifier for TV shows
 
+![ScreenShot](http://i.imgur.com/ZnZM7Tg.jpg)
+
 Script can be used as a cron that runs every x minutes/hours to notify you when a TV show you are following is available on the front page of kat.cr
 
 Pushbullet application and an API key is required to receive notifications. Feel free to change this if any other elegant solution is available. :-)
